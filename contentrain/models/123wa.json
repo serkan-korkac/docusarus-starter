@@ -1,0 +1,11 @@
+[
+  {
+    "name": "erwe",
+    "fieldId": "erwe",
+    "modelId": "123wa",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]
