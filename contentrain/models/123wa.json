@@ -1,11 +1,30 @@
 [
   {
-    "name": "erwe",
+    "name": "updatedfield",
     "fieldId": "erwe",
     "modelId": "123wa",
     "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
+    "options": {
+      "title-field": {
+        "value": false
+      },
+      "default-value": {
+        "value": true,
+        "form": {
+          "single-line-text": {
+            "value": "12"
+          }
+        }
+      }
+    },
+    "validations": {
+      "required-field": {
+        "value": true
+      },
+      "unique-field": {
+        "value": false
+      }
+    },
     "fieldType": "string"
   }
 ]
