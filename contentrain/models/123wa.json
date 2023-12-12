@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "qweqwe",
+    "fieldId": "qweqwe",
+    "modelId": "123wa",
+    "componentId": "date-time",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "date-time": {
+            "value": "2023-12-21T11:30:00.000Z"
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "date"
+  }
+]
