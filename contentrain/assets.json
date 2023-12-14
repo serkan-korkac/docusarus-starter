@@ -12,5 +12,18 @@
       "createdAt": "2023-12-14T12:59:13.437Z",
       "updatedAt": "2023-12-14T12:59:27.408Z"
     }
+  },
+  {
+    "path": "static/1702558866107_image.png",
+    "mimetype": "image/png",
+    "size": 229449,
+    "meta": {
+      "user": {
+        "name": "Serkan Korkaç",
+        "email": "serkan.korkac@contentrain.io",
+        "avatar": null
+      },
+      "createdAt": "2023-12-14T13:01:08.901Z"
+    }
   }
 ]
