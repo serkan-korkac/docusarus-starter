@@ -16,5 +16,14 @@
     },
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "number",
+    "fieldId": "number",
+    "modelId": "serkantest",
+    "componentId": "integer",
+    "options": {},
+    "validations": {},
+    "fieldType": "number"
   }
 ]
