@@ -1,0 +1,20 @@
+[
+  {
+    "componentId": "single-line-text",
+    "fieldId": "rwqd",
+    "modelId": "test-model",
+    "name": "rwqd",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "single-line-text": {
+            "value": "123"
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "string"
+  }
+]
