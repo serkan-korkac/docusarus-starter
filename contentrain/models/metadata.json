@@ -18,5 +18,11 @@
     "modelId": "test-model",
     "localization": true,
     "type": "JSON"
+  },
+  {
+    "name": "qwdexwqd",
+    "modelId": "qwdexwqd",
+    "localization": false,
+    "type": "JSON"
   }
 ]
