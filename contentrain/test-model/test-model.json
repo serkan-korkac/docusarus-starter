@@ -2,36 +2,36 @@
   {
     "ID": "350e73012a9d",
     "createdAt": "Tue Jan 09 2024 15:30:43 GMT+0300 (GMT+03:00)",
-    "updatedAt": "2024-01-09T12:41:30.540Z",
+    "updatedAt": "2024-01-09T12:41:34.433Z",
     "rwqd": "123qweqwe",
-    "status": "publish"
+    "status": "draft"
   },
   {
     "ID": "42222dde129d",
     "createdAt": "Tue Jan 09 2024 15:26:27 GMT+0300 (GMT+03:00)",
-    "updatedAt": "2024-01-09T12:41:30.556Z",
+    "updatedAt": "2024-01-09T12:41:34.451Z",
     "rwqd": "123",
-    "status": "publish"
+    "status": "draft"
   },
   {
     "ID": "5e954ac65b9c",
     "createdAt": "Tue Jan 09 2024 15:27:27 GMT+0300 (GMT+03:00)",
-    "updatedAt": "2024-01-09T12:41:30.571Z",
+    "updatedAt": "2024-01-09T12:41:34.468Z",
     "rwqd": "123",
-    "status": "publish"
+    "status": "draft"
   },
   {
     "ID": "797eaaf24b21",
     "createdAt": "Tue Jan 09 2024 15:31:31 GMT+0300 (GMT+03:00)",
-    "updatedAt": "2024-01-09T12:41:30.584Z",
+    "updatedAt": "2024-01-09T12:41:34.486Z",
     "rwqd": "123qwe",
-    "status": "publish"
+    "status": "draft"
   },
   {
     "ID": "c72909c7e7bb",
     "createdAt": "Tue Jan 09 2024 15:26:30 GMT+0300 (GMT+03:00)",
-    "updatedAt": "2024-01-09T12:41:30.594Z",
+    "updatedAt": "2024-01-09T12:41:34.497Z",
     "rwqd": "123",
-    "status": "publish"
+    "status": "draft"
   }
 ]
