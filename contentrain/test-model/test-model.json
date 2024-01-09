@@ -2,15 +2,15 @@
   {
     "ID": "42222dde129d",
     "createdAt": "Tue Jan 09 2024 15:26:27 GMT+0300 (GMT+03:00)",
-    "updatedAt": "Tue Jan 09 2024 15:26:27 GMT+0300 (GMT+03:00)",
+    "updatedAt": "2024-01-09T12:27:06.134Z",
     "rwqd": "123",
-    "status": "publish"
+    "status": "draft"
   },
   {
     "ID": "c72909c7e7bb",
     "createdAt": "Tue Jan 09 2024 15:26:30 GMT+0300 (GMT+03:00)",
-    "updatedAt": "Tue Jan 09 2024 15:26:30 GMT+0300 (GMT+03:00)",
+    "updatedAt": "2024-01-09T12:27:06.156Z",
     "rwqd": "123",
-    "status": "publish"
+    "status": "draft"
   }
 ]
